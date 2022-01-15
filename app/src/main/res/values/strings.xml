@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">qiwazapp</string>
+    <string name="Login">LOGIN</string>
+    <string name="Loginbtn">Login</string>
+    <string name="HintEmail">Email</string>
+    <string name="HintPassword"> Passowrd</string>
+    <string name="headline">Win a jaguar</string>
+    <string name="hintline">Win a jaguar levis cap for 200 AED</string>
+    <string name="btnText">DREW DATE:</string>
+    <string name="hintmessg">TIME REMAINING</string>
+    <string name="days">8 \n Days</string>
+    <string name="housr">5 \n hours</string>
+    <string name="mins">11 \n mins</string>
+    <string name="sec">12 \n sec</string>
+</resources>
